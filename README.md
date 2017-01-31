@@ -100,12 +100,12 @@ Find out more informations [here][wiki_samples] in our wiki.
 
 
 ## I would like to propose new features
-We appricate any feature proposal and support for their development. Please describe them [here][feature_proposal_issue].
+We appreciate any feature proposal and support for their development. Please describe them [here][feature_proposal_issue].
 
-Find out more informations [here][wiki_next] in our wiki.
+Find out more information [here][wiki_next] in our wiki.
 
 ## Supporting
-Your support is needed. If you use the plugin please send us a drop through the donation button.
+Your support is needed. If you use the plugin please support us through the donation button.
 
 Thank you!
 
